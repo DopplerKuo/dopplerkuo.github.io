@@ -1,0 +1,39 @@
+/// color
+$g: linear-gradient(150deg, #3D2188 0%, #8C108C 100%);
+$bl: #1C262F;
+$bd: #e2e2e2;
+
+$primary-color: #0d2565;
+$secondary-color: #63ffe2;
+
+/// flex
+$flex-child-spacing: 10px;
+$breakpoint-medium: 992px;
+$breakpoint-small: 768px;
+$breakpoint-xsmall: 320px;
+$breakpoint-nav-transform: $breakpoint-small;
+$breakpoint: $breakpoint-small;
+
+/// section > content
+$content-max-width: 1180px;
+$content-padding: 8% 5%;
+
+/// nav 
+$nav-font-color: #fbfbfb;
+$nav-bg-color: $primary-color;
+$mobile-nav-icon-color: #fbfbfb;
+$mobile-nav-list-bg-color: $primary-color;
+$nav-height: 60px;
+$mobile-nav-height: 50px;
+
+/// z-index
+$nav-zindex: 30;
+$popup-zindex: 31;
+
+/// font-family
+$p100: 'Staatliches', cursive, PingFangTC-Ultralight, xingothic-tc, sans-serif, Microsoft JhengHei;
+$p200: 'Staatliches', cursive, PingFangTC-Thin, xingothic-tc, sans-serif, Microsoft JhengHei;
+$p300: 'Staatliches', cursive, PingFangTC-Light, xingothic-tc, sans-serif, Microsoft JhengHei;
+$p400: 'Staatliches', cursive, PingFangTC-Regular, xingothic-tc, sans-serif, Microsoft JhengHei;
+$p500: 'Staatliches', cursive, PingFangTC-Medium, xingothic-tc, sans-serif, Microsoft JhengHei;
+$p600: 'Staatliches', cursive, PingFangTC-Semibold, xingothic-tc, sans-serif, Microsoft JhengHei;
